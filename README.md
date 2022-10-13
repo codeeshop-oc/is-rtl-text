@@ -14,12 +14,12 @@ const isRtlText = require('is-rtl-text');
 ```
 
 ```js
-isRTL('Text String')
+isRtlText('Text String')
 // false
 ```
 
 ```js
-isRTL('test Urduہیلو')
+isRtlText('test Urduہیلو')
 // true
 ```
 

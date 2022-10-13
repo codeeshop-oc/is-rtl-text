@@ -10,7 +10,7 @@
 
 ### require is-rtl-text lib
 ```js
-const isRtlText = require('is-rtl-text');
+const isRtlText = require('is-rtl-text')
 ```
 
 ```js

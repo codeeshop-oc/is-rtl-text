@@ -1,7 +1,7 @@
 /* global describe, test, expect */
 'use strict';
 
-const isRTL = require('../' + 'index');
+const isRTL = require('../' + 'index')
 
 describe('index', function () {
     test('test check Text String', function () {

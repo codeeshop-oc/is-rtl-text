@@ -1,0 +1,6 @@
+node_modules
+__snapshots__
+coverage
+.gitignore
+.travis.yml
+.eslintrc.js

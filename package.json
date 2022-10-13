@@ -1,0 +1,38 @@
+{
+  "name": "is-rtl-text",
+  "version": "0.0.1",
+  "description": "Library will help you to detect if the text is in right-to-left language",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest --coverage"
+  },
+  "jest": {
+    "verbose": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeeshop-oc/is-rtl-text.git"
+  },
+  "keywords": [
+    "rtl-detect",
+    "rtl",
+    "ltr",
+    "language",
+    "rtl-detect-text"
+  ],
+  "author": "Code-E-Shop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeeshop-oc/is-rtl-text/issues"
+  },
+  "homepage": "https://github.com/codeeshop-oc/is-rtl-text#readme",
+  "devDependencies": {
+    "eslint": "^8.2.0",    
+    "jest": "^26.6.3"
+  },
+  "browserslist": [
+    "defaults and supports es6-module",
+    "maintained node versions"
+  ]
+}
